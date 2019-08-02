@@ -114,7 +114,7 @@
                     "yum install -y git python2-pip wget\n",
                     "pip install ansible\n",
                     "cd /home/ec2-user\n",
-                    "git clone https://gitlab.com/ITOpsTube-Webinars/squid-cloudformation.git\n",
+                    "git clone https://github.com/Rome84/cft_squid.git\n",
                     "cd /home/ec2-user/squid-cloudformation\n",
                     "touch executed\n",
                     "ansible-playbook main-site.yml\n",
